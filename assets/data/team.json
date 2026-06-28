@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mike Thompson",
+    "role": "Owner & Lead Contractor",
+    "bio": "With over 15 years of experience in the Yukon construction industry, Mike founded Yukon Handyman with a vision for premium craftsmanship and exceptional service.",
+    "image": "/assets/images/team/mike.jpg"
+  },
+  {
+    "name": "Sarah Chen",
+    "role": "Project Manager",
+    "bio": "Sarah brings 10 years of project management experience, ensuring every job runs on schedule, on budget, and to the highest standards.",
+    "image": "/assets/images/team/sarah.jpg"
+  },
+  {
+    "name": "James Wilson",
+    "role": "Master Carpenter",
+    "bio": "James is a certified journeyman carpenter with expertise in custom millwork, cabinetry, and finish carpentry.",
+    "image": "/assets/images/team/james.jpg"
+  },
+  {
+    "name": "Alexandre Dubois",
+    "role": "Roofing Specialist",
+    "bio": "Alex specializes in metal roofing and torch-on systems, with certifications from leading roof manufacturers.",
+    "image": "/assets/images/team/alex.jpg"
+  }
+]

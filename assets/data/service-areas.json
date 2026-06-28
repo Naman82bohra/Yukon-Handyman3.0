@@ -1,0 +1,12 @@
+[
+  { "city": "Whitehorse", "province": "YT", "responseTime": "Same day" },
+  { "city": "Riverdale", "province": "YT", "responseTime": "Same day" },
+  { "city": "Porter Creek", "province": "YT", "responseTime": "Same day" },
+  { "city": "Copper Ridge", "province": "YT", "responseTime": "Same day" },
+  { "city": "Whistle Bend", "province": "YT", "responseTime": "Same day" },
+  { "city": "Takhini", "province": "YT", "responseTime": "Same day" },
+  { "city": "Grey Mountain", "province": "YT", "responseTime": "Same day" },
+  { "city": "Marsh Lake", "province": "YT", "responseTime": "24 hours" },
+  { "city": "Carcross", "province": "YT", "responseTime": "24 hours" },
+  { "city": "Haines Junction", "province": "YT", "responseTime": "48 hours" }
+]

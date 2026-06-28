@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customerName": "Sarah M.",
+    "rating": 5,
+    "text": "Yukon Handyman completely transformed our kitchen. Every detail was perfect — from the custom cabinetry to the heated flooring.",
+    "videoUrl": null,
+    "source": "Google"
+  },
+  {
+    "id": 2,
+    "customerName": "James & Lisa R.",
+    "rating": 5,
+    "text": "Our metal roof has been through two Yukon winters and looks as good as day one. Best investment we've made for our home.",
+    "videoUrl": null,
+    "source": "Facebook"
+  },
+  {
+    "id": 3,
+    "customerName": "Emily T.",
+    "rating": 5,
+    "text": "The LVP flooring with underfloor heating is incredible. Walking on warm floors during a -40°C day is pure luxury.",
+    "videoUrl": null,
+    "source": "Google"
+  }
+]

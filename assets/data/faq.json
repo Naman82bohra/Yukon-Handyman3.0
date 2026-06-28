@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "What areas do you serve?",
+    "answer": "We serve all of Whitehorse and surrounding areas in the Yukon, including Riverdale, Porter Creek, Copper Ridge, Whistle Bend, Takhini, Grey Mountain, and more. Contact us for service in remote communities.",
+    "service": null
+  },
+  {
+    "id": 2,
+    "question": "Do you offer free estimates?",
+    "answer": "Yes! We provide free, no-obligation estimates for all services. Contact us to schedule a consultation at your convenience.",
+    "service": null
+  },
+  {
+    "id": 3,
+    "question": "Are you licensed and insured?",
+    "answer": "Absolutely. Yukon Handyman is fully licensed, bonded, and insured. We carry comprehensive liability insurance and WCB coverage for your peace of mind.",
+    "service": null
+  },
+  {
+    "id": 4,
+    "question": "Do you offer financing?",
+    "answer": "Yes, we partner with Financeit to offer flexible financing options. You can apply online and get approved quickly for projects of all sizes.",
+    "service": null
+  },
+  {
+    "id": 5,
+    "question": "How long does a typical renovation take?",
+    "answer": "Timelines vary by project scope. A single room renovation typically takes 2-4 weeks, while full home renovations may take 2-4 months. We provide detailed timelines during the estimate.",
+    "service": "Renovation"
+  },
+  {
+    "id": 6,
+    "question": "What roofing material is best for Yukon winters?",
+    "answer": "Standing seam metal roofing is the top choice for Yukon's extreme climate. It sheds snow easily, lasts 50+ years, and performs exceptionally well in cold temperatures with proper insulation.",
+    "service": "Roofing"
+  },
+  {
+    "id": 7,
+    "question": "Is LVP flooring good for cold climates?",
+    "answer": "Yes! Luxury Vinyl Plank is excellent for Yukon homes. It's waterproof, handles temperature changes well, and pairs perfectly with underfloor heating systems.",
+    "service": "Flooring"
+  },
+  {
+    "id": 8,
+    "question": "How do I apply for a job?",
+    "answer": "Visit our Careers page to view open positions and submit your application. We're always looking for skilled tradespeople to join our growing team.",
+    "service": null
+  }
+]

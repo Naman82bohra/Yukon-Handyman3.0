@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Kitchen Transformation",
+    "beforeImage": "/assets/images/gallery/kitchen-before.jpg",
+    "afterImage": "/assets/images/gallery/kitchen-after.jpg",
+    "service": "Renovation",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Metal Roof Installation",
+    "beforeImage": "/assets/images/gallery/roof-before.jpg",
+    "afterImage": "/assets/images/gallery/roof-after.jpg",
+    "service": "Roofing",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "LVP Flooring Installation",
+    "beforeImage": "/assets/images/gallery/flooring-before.jpg",
+    "afterImage": "/assets/images/gallery/flooring-after.jpg",
+    "service": "Flooring",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Bathroom Remodel",
+    "beforeImage": "/assets/images/gallery/bathroom-before.jpg",
+    "afterImage": "/assets/images/gallery/bathroom-after.jpg",
+    "service": "Renovation",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Deck Restoration",
+    "beforeImage": "/assets/images/gallery/deck-before.jpg",
+    "afterImage": "/assets/images/gallery/deck-after.jpg",
+    "service": "Renovation",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Roof Repair",
+    "beforeImage": "/assets/images/gallery/roof-repair-before.jpg",
+    "afterImage": "/assets/images/gallery/roof-repair-after.jpg",
+    "service": "Roofing",
+    "featured": false
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Downtown Whitehorse Kitchen Renovation",
+    "slug": "downtown-whitehorse-kitchen",
+    "service": "Renovation",
+    "location": "Whitehorse, YT",
+    "description": "Complete kitchen transformation featuring custom cabinetry, quartz countertops, and premium finishes. Open-concept design with heated flooring.",
+    "images": [
+      "/assets/images/projects/kitchen-1.jpg",
+      "/assets/images/projects/kitchen-2.jpg",
+      "/assets/images/projects/kitchen-3.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/kitchen-before.jpg",
+    "afterImage": "/assets/images/projects/kitchen-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/1",
+    "completedAt": "2025-12-15",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Metal Roof Installation — Riverdale",
+    "slug": "riverdale-metal-roof",
+    "service": "Roofing",
+    "location": "Riverdale, Whitehorse, YT",
+    "description": "Standing seam metal roof installation with snow guards. Durable Yukon-ready roofing with a 50-year warranty.",
+    "images": [
+      "/assets/images/projects/roof-1.jpg",
+      "/assets/images/projects/roof-2.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/roof-before.jpg",
+    "afterImage": "/assets/images/projects/roof-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/2",
+    "completedAt": "2025-10-20",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Luxury Vinyl Plank Flooring — Porter Creek",
+    "slug": "porter-creek-lvp-flooring",
+    "service": "Flooring",
+    "location": "Porter Creek, Whitehorse, YT",
+    "description": "Full main floor LVP installation with underfloor heating. Waterproof, durable, and stunning — perfect for Yukon families.",
+    "images": [
+      "/assets/images/projects/flooring-1.jpg",
+      "/assets/images/projects/flooring-2.jpg",
+      "/assets/images/projects/flooring-3.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/flooring-before.jpg",
+    "afterImage": "/assets/images/projects/flooring-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/3",
+    "completedAt": "2025-09-10",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Commercial Snow Clearing — Main Street",
+    "slug": "main-street-snow-clearing",
+    "service": "Snow Removal",
+    "location": "Downtown Whitehorse, YT",
+    "description": "Seasonal snow removal contract for downtown commercial properties. Reliable overnight clearing for morning access.",
+    "images": [
+      "/assets/images/projects/snow-1.jpg",
+      "/assets/images/projects/snow-2.jpg"
+    ],
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/4",
+    "completedAt": "2025-03-15",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Bathroom Renovation — Copper Ridge",
+    "slug": "copper-ridge-bathroom",
+    "service": "Renovation",
+    "location": "Copper Ridge, Whitehorse, YT",
+    "description": "Luxury ensuite bathroom with custom tile work, floating vanity, rain shower, and heated floors.",
+    "images": [
+      "/assets/images/projects/bathroom-1.jpg",
+      "/assets/images/projects/bathroom-2.jpg",
+      "/assets/images/projects/bathroom-3.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/bathroom-before.jpg",
+    "afterImage": "/assets/images/projects/bathroom-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/5",
+    "completedAt": "2025-08-01",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Post-Construction Deep Clean — New Build",
+    "slug": "new-build-deep-clean",
+    "service": "Cleaning",
+    "location": "Whistle Bend, Whitehorse, YT",
+    "description": "Full post-construction cleaning for a new custom home. Every surface, window, and floor spotless for move-in.",
+    "images": [
+      "/assets/images/projects/cleaning-1.jpg"
+    ],
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/6",
+    "completedAt": "2025-07-20",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Torch-On Roof Repair — Takhini",
+    "slug": "takhini-roof-repair",
+    "service": "Roofing",
+    "location": "Takhini, Whitehorse, YT",
+    "description": "Emergency torch-on roof repair after winter damage. Full leak detection and waterproof restoration.",
+    "images": [
+      "/assets/images/projects/roof-repair-1.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/roof-repair-before.jpg",
+    "afterImage": "/assets/images/projects/roof-repair-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/7",
+    "completedAt": "2025-02-10",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Deck & Fence Restoration — Grey Mountain",
+    "slug": "grey-mountain-deck-restoration",
+    "service": "Renovation",
+    "location": "Grey Mountain, Whitehorse, YT",
+    "description": "Complete exterior deck and fence restoration with pressure treated lumber and weatherproof staining.",
+    "images": [
+      "/assets/images/projects/deck-1.jpg",
+      "/assets/images/projects/deck-2.jpg"
+    ],
+    "beforeImage": "/assets/images/projects/deck-before.jpg",
+    "afterImage": "/assets/images/projects/deck-after.jpg",
+    "facebookUrl": "https://facebook.com/yukonhandyman/posts/8",
+    "completedAt": "2025-06-15",
+    "featured": false
+  }
+]

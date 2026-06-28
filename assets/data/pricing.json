@@ -1,0 +1,71 @@
+[
+  {
+    "service": "Renovation",
+    "tiers": [
+      {
+        "name": "Essential",
+        "price": "From $5,000",
+        "description": "Small renovations and updates",
+        "features": ["Single room focus", "Standard materials", "Basic finishes", "2-week timeline"]
+      },
+      {
+        "name": "Premium",
+        "price": "From $15,000",
+        "description": "Full room transformations",
+        "features": ["Full room renovation", "Premium materials", "Custom cabinetry", "4-week timeline", "Project management"]
+      },
+      {
+        "name": "Luxury",
+        "price": "From $40,000",
+        "description": "Complete home transformations",
+        "features": ["Multi-room renovation", "Luxury materials", "Custom millwork", "Underfloor heating", "Full project management", "Design consultation"]
+      }
+    ]
+  },
+  {
+    "service": "Roofing",
+    "tiers": [
+      {
+        "name": "Repair",
+        "price": "From $500",
+        "description": "Emergency and routine repairs",
+        "features": ["Leak detection", "Patch repairs", "Snow guard install", "1-day service"]
+      },
+      {
+        "name": "Standard",
+        "price": "From $8,000",
+        "description": "Asphalt shingle installation",
+        "features": ["Asphalt shingles", "Ice & water shield", "30-year warranty", "3-5 day install"]
+      },
+      {
+        "name": "Premium",
+        "price": "From $18,000",
+        "description": "Standing seam metal roofing",
+        "features": ["Standing seam metal", "Snow guards included", "50-year warranty", "Custom colours", "Energy efficient"]
+      }
+    ]
+  },
+  {
+    "service": "Flooring",
+    "tiers": [
+      {
+        "name": "Standard",
+        "price": "From $3.50/sqft",
+        "description": "Quality laminate and carpet",
+        "features": ["Laminate or carpet", "Standard underlay", "Trim included", "2-3 day install"]
+      },
+      {
+        "name": "Premium",
+        "price": "From $6/sqft",
+        "description": "Luxury vinyl and engineered wood",
+        "features": ["LVP or engineered wood", "Premium underlay", "Quarter round included", "Moisture barrier", "2-3 day install"]
+      },
+      {
+        "name": "Luxury",
+        "price": "From $12/sqft",
+        "description": "Hardwood and heated floors",
+        "features": ["Solid hardwood", "Underfloor heating", "Custom staining", "Acoustic underlayment", "Lifetime warranty"]
+      }
+    ]
+  }
+]

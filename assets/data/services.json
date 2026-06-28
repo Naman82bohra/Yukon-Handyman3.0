@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Renovation",
+    "slug": "renovation",
+    "tagline": "Transform your space",
+    "description": "Full-service interior and exterior renovations. From kitchen remodels to basement finishing, we bring premium craftsmanship to every project in Whitehorse and across the Yukon.",
+    "icon": "🏠",
+    "image": "/assets/images/services/renovation.jpg",
+    "featured": true,
+    "order": 1,
+    "highlights": [
+      "Kitchen & Bathroom Remodels",
+      "Basement Finishing",
+      "Interior & Exterior Renovations",
+      "Custom Carpentry & Millwork",
+      "Project Management"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Roofing",
+    "slug": "roofing",
+    "tagline": "Protect your home from above",
+    "description": "Expert roofing services built for Yukon's extreme climate. We install, repair, and maintain metal, asphalt, and torch-on roofing systems that last.",
+    "icon": "🏗️",
+    "image": "/assets/images/services/roofing.jpg",
+    "featured": true,
+    "order": 2,
+    "highlights": [
+      "Metal Roofing Installation",
+      "Asphalt Shingle Roofing",
+      "Torch-On Roofing Systems",
+      "Roof Repairs & Maintenance",
+      "Snow Guard Installation"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Flooring",
+    "slug": "flooring",
+    "tagline": "Foundations of beauty",
+    "description": "Premium flooring solutions for Yukon homes and businesses. We offer luxury vinyl plank, hardwood, engineered wood, tile, and carpet installation.",
+    "icon": "🪵",
+    "image": "/assets/images/services/flooring.jpg",
+    "featured": true,
+    "order": 3,
+    "highlights": [
+      "Luxury Vinyl Plank (LVP)",
+      "Hardwood & Engineered Wood",
+      "Tile & Stone Installation",
+      "Carpet & Padding",
+      "Underfloor Heating"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Snow Removal",
+    "slug": "snow-removal",
+    "tagline": "Yukon winters, mastered",
+    "description": "Reliable snow removal and ice management for residential and commercial properties. We keep your driveways, walkways, and lots clear all winter long.",
+    "icon": "❄️",
+    "image": "/assets/images/services/snow.jpg",
+    "featured": true,
+    "order": 4,
+    "highlights": [
+      "Residential Snow Plowing",
+      "Commercial Lot Clearing",
+      "Sidewalk & Walkway Clearing",
+      "Ice Management & Salting",
+      "Seasonal Contracts Available"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Cleaning",
+    "slug": "cleaning",
+    "tagline": "Spotless, every time",
+    "description": "Professional cleaning services for homes and businesses. From deep cleaning to regular maintenance, we deliver exceptional results.",
+    "icon": "✨",
+    "image": "/assets/images/services/cleaning.jpg",
+    "featured": true,
+    "order": 5,
+    "highlights": [
+      "Residential Deep Cleaning",
+      "Commercial Cleaning",
+      "Post-Construction Cleanup",
+      "Window Cleaning",
+      "Move-In/Move-Out Cleaning"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "General Handyman",
+    "slug": "general-handyman",
+    "tagline": "Every fix, big or small",
+    "description": "Your go-to for everyday repairs and improvements. Plumbing, electrical, drywall, painting, assembly, and more — we handle it all.",
+    "icon": "🔧",
+    "image": "/assets/images/services/handyman.jpg",
+    "featured": false,
+    "order": 6,
+    "highlights": [
+      "Plumbing Repairs",
+      "Electrical Work",
+      "Drywall & Painting",
+      "Furniture Assembly",
+      "General Maintenance"
+    ]
+  }
+]

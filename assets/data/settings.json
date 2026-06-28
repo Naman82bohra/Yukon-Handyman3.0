@@ -1,0 +1,36 @@
+{
+  "business": {
+    "name": "Yukon Handyman",
+    "tagline": "Premium Home Services, Northern Strong",
+    "phone": "(867) 334-1604",
+    "email": "info@yukonhandyman.ca",
+    "address": "Whitehorse, Yukon, Canada",
+    "hours": "Mon–Fri: 7:00 AM – 6:00 PM",
+    "social": {
+      "facebook": "https://facebook.com/yukonhandyman",
+      "instagram": "https://instagram.com/yukonhandyman",
+      "youtube": "https://youtube.com/@yukonhandyman"
+    }
+  },
+  "seo": {
+    "title": "Yukon Handyman | Premium Home Services in Whitehorse & Yukon",
+    "description": "Yukon Handyman offers premium renovation, roofing, flooring, cleaning, snow removal, and handyman services across Whitehorse and the Yukon. Free estimates.",
+    "keywords": "Yukon Handyman, Whitehorse renovation, Yukon roofing, Whitehorse flooring, snow removal Yukon, home services Yukon"
+  },
+  "features": {
+    "aiEstimator": true,
+    "chatbot": true,
+    "beforeAfter": true,
+    "weatherWidget": true,
+    "search": true,
+    "financing": true,
+    "housecallPro": true
+  },
+  "display": {
+    "theme": "dark",
+    "auroraEnabled": true,
+    "particlesEnabled": true,
+    "cursorEffect": true,
+    "magneticButtons": true
+  }
+}

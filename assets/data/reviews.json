@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "customerName": "Sarah M.",
+    "rating": 5,
+    "text": "Yukon Handyman completely transformed our kitchen. The team was professional, punctual, and the craftsmanship is outstanding. Our dream kitchen became a reality.",
+    "source": "Google",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "customerName": "James R.",
+    "rating": 5,
+    "text": "Had our metal roof installed last fall. Handled the Yukon weather like champs. The snow guards have already proven their worth. Highly recommend.",
+    "source": "Facebook",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "customerName": "Emily T.",
+    "rating": 5,
+    "text": "The LVP flooring they installed is incredible. Heated floors in a Yukon winter are a game changer. Fair pricing and immaculate work.",
+    "source": "Google",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "customerName": "Mike D.",
+    "rating": 4,
+    "text": "Reliable snow removal service all winter. Never missed a morning. Our commercial lot was always clear before opening.",
+    "source": "Google",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "customerName": "Lisa K.",
+    "rating": 5,
+    "text": "Our bathroom renovation exceeded expectations. The tile work is museum-quality. They respected our timeline and budget perfectly.",
+    "source": "Facebook",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "customerName": "Tom W.",
+    "rating": 5,
+    "text": "Called them for an emergency roof repair during a blizzard. They showed up within hours and had it sorted. True Yukon grit.",
+    "source": "Google",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "customerName": "Patricia L.",
+    "rating": 5,
+    "text": "Post-construction cleaning was thorough and detailed. Our new home was spotless for move-in. Wouldn't trust anyone else.",
+    "source": "Facebook",
+    "featured": false
+  }
+]
