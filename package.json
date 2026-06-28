@@ -1,0 +1,22 @@
+{
+  "name": "yukon-handyman-3.0",
+  "version": "3.0.0",
+  "description": "Yukon Handyman — Premium Home Services Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "swiper": "^11.1.9",
+    "three": "^0.168.0",
+    "lottie-web": "^5.12.2",
+    "@emailjs/browser": "^4.3.3"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}

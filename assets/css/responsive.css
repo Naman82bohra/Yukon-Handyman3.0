@@ -1,0 +1,151 @@
+/* ============================================
+   Responsive
+   ============================================ */
+
+/* 2XL — 1400px+ */
+@media (max-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+/* XL — 1200px */
+@media (max-width: 1200px) {
+  .container {
+    max-width: 960px;
+    padding: 0 var(--space-5);
+  }
+  .grid-4 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* LG — 992px */
+@media (max-width: 992px) {
+  .container {
+    max-width: 720px;
+  }
+  .grid-3,
+  .grid-4,
+  .reviews-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .section {
+    padding: var(--space-16) 0;
+  }
+  .section-lg {
+    padding: var(--space-20) 0;
+  }
+  .section-header {
+    margin-bottom: var(--space-12);
+  }
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+  }
+  .hide-tablet {
+    display: none;
+  }
+}
+
+/* MD — 768px */
+@media (max-width: 768px) {
+  :root {
+    --navbar-height: 4rem;
+  }
+  .container {
+    padding: 0 var(--space-4);
+  }
+  .grid-2,
+  .grid-3,
+  .grid-4,
+  .reviews-grid {
+    grid-template-columns: 1fr;
+  }
+  .section {
+    padding: var(--space-12) 0;
+  }
+  .section-lg {
+    padding: var(--space-16) 0;
+  }
+  .section-header {
+    margin-bottom: var(--space-10);
+  }
+  .form-row {
+    grid-template-columns: 1fr;
+  }
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+    text-align: center;
+  }
+  .footer-brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .footer-brand p {
+    text-align: center;
+  }
+  .navbar-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    padding: var(--space-4);
+    background: rgba(10, 10, 11, 0.95);
+    backdrop-filter: blur(20px);
+    gap: var(--space-1);
+    border-bottom: 1px solid var(--glass-border);
+  }
+  .navbar-menu.open {
+    display: flex;
+  }
+  .navbar-hamburger {
+    display: flex;
+  }
+  .hide-mobile {
+    display: none;
+  }
+  .service-card {
+    padding: var(--space-6);
+  }
+  .card-body {
+    padding: var(--space-5);
+  }
+  .hero-content {
+    padding: var(--space-4);
+  }
+  .cta-padding {
+    padding: var(--space-10) var(--space-6);
+  }
+}
+
+/* SM — 480px */
+@media (max-width: 480px) {
+  .btn {
+    width: 100%;
+  }
+  .btn-group {
+    flex-direction: column;
+  }
+  .review-card {
+    padding: var(--space-6);
+  }
+  .glass-card {
+    padding: var(--space-6);
+  }
+  .hide-sm {
+    display: none;
+  }
+}
+
+/* Landscape orientation on mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+  .hero-section {
+    min-height: 120vh;
+  }
+}

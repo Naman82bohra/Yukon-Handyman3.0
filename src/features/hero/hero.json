@@ -1,0 +1,16 @@
+{
+  "headline": "Premium Home Services",
+  "subHeadline": "Northern Strong",
+  "description": "Yukon Handyman brings luxury craftsmanship and northern resilience to every project. From renovations to roofing, we build homes that withstand the wild.",
+  "badge": "Trusted in the Yukon Since 2010",
+  "cta": {
+    "primary": "Get Free Estimate",
+    "secondary": "Our Services"
+  },
+  "hotspots": [
+    { "service": "Renovation", "top": "25%", "left": "20%" },
+    { "service": "Roofing", "top": "35%", "right": "25%" },
+    { "service": "Flooring", "bottom": "40%", "left": "30%" },
+    { "service": "Snow Removal", "top": "45%", "left": "50%" }
+  ]
+}

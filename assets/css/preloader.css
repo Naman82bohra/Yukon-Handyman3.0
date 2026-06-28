@@ -1,0 +1,141 @@
+/* ============================================
+   Preloader
+   ============================================ */
+
+.preloader {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-preloader);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-black);
+  overflow: hidden;
+  transition: opacity 0.8s var(--ease-out), visibility 0.8s var(--ease-out);
+}
+
+.preloader-fade {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.preloader-aurora {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.preloader-aurora .aurora-layer {
+  position: absolute;
+  inset: -200px;
+  opacity: 0.12;
+  filter: blur(80px);
+  mix-blend-mode: screen;
+}
+
+.preloader-aurora .aurora-layer:nth-child(1) {
+  background: radial-gradient(ellipse 60% 40% at 30% 20%, var(--color-aurora-green) 0%, transparent 70%);
+  animation: auroraDrift 20s ease-in-out infinite;
+}
+
+.preloader-aurora .aurora-layer:nth-child(2) {
+  background: radial-gradient(ellipse 50% 30% at 70% 30%, var(--color-aurora-blue) 0%, transparent 70%);
+  animation: auroraDrift 25s ease-in-out infinite reverse;
+  opacity: 0.08;
+}
+
+.preloader-aurora .aurora-layer:nth-child(3) {
+  background: radial-gradient(ellipse 40% 35% at 50% 15%, var(--color-aurora-teal) 0%, transparent 70%);
+  animation: auroraDrift 18s ease-in-out infinite 5s;
+  opacity: 0.06;
+}
+
+.preloader-mountains {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.preloader-mountains svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.preloader-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.preloader-logo {
+  margin-bottom: var(--space-2);
+  animation: fadeInScale 1s var(--ease-out) forwards;
+}
+
+.preloader-title {
+  font-family: var(--font-display);
+  font-size: var(--text-3xl);
+  color: var(--color-white);
+  font-weight: 600;
+  letter-spacing: var(--tracking-tight);
+  animation: fadeInUp 1s var(--ease-out) 0.2s forwards;
+  opacity: 0;
+}
+
+.preloader-tagline {
+  font-size: var(--text-sm);
+  color: var(--color-gray-400);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  animation: fadeInUp 1s var(--ease-out) 0.4s forwards;
+  opacity: 0;
+}
+
+.progress-container {
+  width: 200px;
+  margin-top: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+}
+
+.progress-line {
+  width: 100%;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  position: relative;
+}
+
+.progress-fill {
+  width: 0%;
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-gold-500), var(--color-gold-300), var(--color-gold-400));
+  background-size: 200% 100%;
+  border-radius: var(--radius-full);
+  transition: width 0.08s ease-out;
+  /* subtle shimmer */
+  animation: goldShimmer 2s ease-in-out infinite;
+}
+
+.percentage {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  color: var(--color-gray-400);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: var(--tracking-wide);
+  min-width: 3ch; /* space for "100%" */
+  text-align: right;
+}
